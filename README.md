@@ -6,4 +6,5 @@ Courses:
 
 Workshops:
 
-Conferences and meetups I attended:
+
+Conferences and meetups:
