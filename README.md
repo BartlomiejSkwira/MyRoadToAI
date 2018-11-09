@@ -15,9 +15,11 @@ This repo tracks my progress in AI/Machine Learning/Data Science/Python field.
 
 ### 1. Courses:
 Online courses I have finished
-- [Python A-Z™: Python For Data Science With Real Exercises!](https://www.udemy.com/python-coding/learn/v4/overview) - Udemy, [My certificate](https://www.udemy.com/certificate/UC-CI7PT7QR)
-- Pandas @ kaggle
-- Python @ python.org - basic Python course
+Name | Description | Date | Other
+-----|-------------|------|------
+[Python A-Z™: Python For Data Science With Real Exercises! @ Udemy](https://www.udemy.com/python-coding/learn/v4/overview) | Teaches statistical analysis, data mining and visualization using Python, Numpy, Matplotlib, Pandas, Seaborn. | 5.11.2018 | [Certificate](https://www.udemy.com/certificate/UC-CI7PT7QR) and short [LI post](https://www.linkedin.com/feed/update/urn:li:activity:6465168447276883968/)
+Pandas @ kaggle |||
+[Official Python tutorial @ python.org](https://docs.python.org/3/tutorial/) | basic Python course | Thursday, 30 August 2018 |
 
 ### 2. Conferences and meetups:
 Interesting talks, meetups, conferences I have attended.
@@ -39,3 +41,4 @@ Things soon to happen or in progress.
 ### 5. Contact
 - [My blog @ Medium](https://medium.com/@BartekSkwira)
 - [My LinkedIn](https://www.linkedin.com/in/bartlomiejskwira/)
+- [My Kaggle](https://www.kaggle.com/bartekskwira)
