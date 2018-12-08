@@ -4,6 +4,8 @@
 Inspired by [F1sherKK-MyRoadToAI](https://github.com/FisherKK/F1sherKK-MyRoadToAI).  
 This repo tracks my progress in AI/Machine Learning/Data Science/Python field.
 
+##Repo is in progress...
+
 ## Table of contents:
 
 1. [Courses](https://github.com/BartlomiejSkwira/MyRoadToAI#1-courses)
