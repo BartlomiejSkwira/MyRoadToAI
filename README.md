@@ -1,10 +1,10 @@
 # Bartlomiej Skwira - MyRoadToAI
 
 ## About:
-This repo tracks my progress in AI/Machine Learning/Data Science/Python field. Inspired by Kamil's [F1sherKK-MyRoadToAI](https://github.com/FisherKK/F1sherKK-MyRoadToAI).  
+This repo tracks my progress in AI/Machine Learning/Data Science/Python field. It was inspired by Kamil Krzyk's [F1sherKK-MyRoadToAI](https://github.com/FisherKK/F1sherKK-MyRoadToAI).  
 
 
-##Repo is in progress...
+## !Repo is in progress...
 
 ## Table of contents:
 
@@ -17,11 +17,11 @@ This repo tracks my progress in AI/Machine Learning/Data Science/Python field. I
 
 ### 1. Courses/MOOCs:
 Online courses I have finished
-Name | Description | Date | Other
------|-------------|------|------
-[Python A-Z™: Python For Data Science With Real Exercises! @ Udemy](https://www.udemy.com/python-coding/learn/v4/overview) | Teaches statistical analysis, data mining and visualization using Python, Numpy, Matplotlib, Pandas, Seaborn. | 5.11.2018 | [Certificate](https://www.udemy.com/certificate/UC-CI7PT7QR) and short [LI post](https://www.linkedin.com/feed/update/urn:li:activity:6465168447276883968/)
-Pandas @ kaggle || https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6460453393801441280/|
-[Official Python tutorial @ python.org](https://docs.python.org/3/tutorial/) | basic Python course | Thursday, 30 August 2018 |
+Name/Link | Description |  Other
+-----|-------------|------
+[Python A-Z™: Python For Data Science With Real Exercises! @ Udemy](https://www.udemy.com/python-coding/learn/v4/overview) | Teaches statistical analysis, data mining and visualization using Python, Numpy, Matplotlib, Pandas, Seaborn. | [Certificate](https://www.udemy.com/certificate/UC-CI7PT7QR)
+[Pandas tutorial @ Kaggle](https://www.kaggle.com/learn/pandas) | Short hands-on challenges to perfect data manipulation skills | |
+[Official Python tutorial @ python.org](https://docs.python.org/3/tutorial/) | Introduces the reader informally to the basic concepts and features of the Python language and system. | |
 
 ### 2. Conferences and meetups:
 Interesting talks, meetups, conferences I have attended.
