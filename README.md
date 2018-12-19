@@ -5,10 +5,10 @@ This repo tracks my progress in AI/Machine Learning/Data Science/Python field. I
 
 ## Table of contents:
 
-1. [Upcoming](https://github.com/BartlomiejSkwira/MyRoadToAI#4-upcoming)
-2. [Courses/MOOCs](https://github.com/BartlomiejSkwira/MyRoadToAI#1-courses)
+1. [Upcoming](https://github.com/BartlomiejSkwira/MyRoadToAI#1-upcoming)
+2. [Courses/MOOCs](https://github.com/BartlomiejSkwira/MyRoadToAI#2-courses)
 3. [Live workshops](https://github.com/BartlomiejSkwira/MyRoadToAI#3-live-workshops)
-4. [Conferences and meetups](https://github.com/BartlomiejSkwira/MyRoadToAI#2-conferences-and-meetups)
+4. [Conferences and meetups](https://github.com/BartlomiejSkwira/MyRoadToAI#4-conferences-and-meetups)
 5. [Contact](https://github.com/BartlomiejSkwira/MyRoadToAI#5-contact)
 
 
@@ -44,13 +44,13 @@ Name/Link | Description |  Other
 ### 4. Conferences and meetups:
 Interesting talks, meetups, conferences I have attended.
 
-Name/Link |  Other
-|-----|------|
-| [PyData Warsaw 2018](https://pydata.org/warsaw2018/) | |
-| [DevForge](https://www.facebook.com/events/2155928724727596/) | |
-| [PyStok 34](https://www.facebook.com/events/161588124780347/) | |
+Name/Link | Other
+----------|------
+| [PyData Warsaw 2018](https://pydata.org/warsaw2018/) ||
+| [DevForge](https://www.facebook.com/events/2155928724727596/) ||
+| [PyStok 34](https://www.facebook.com/events/161588124780347/) ||
 | [DataWorkshop Club Conf 2018](http://conf.dataworkshop.eu/) | [My blog post about this event](https://medium.com/@BartekSkwira/data-workshop-club-conf-how-all-it-conferences-should-be-made-1aaff7eb7402) |
-| [Pystok 33](https://www.facebook.com/pg/PyStok/events/?ref=page_internal) | |
+| [Pystok 33](https://www.facebook.com/pg/PyStok/events/?ref=page_internal) ||
 
 
 ### 5. Contact
