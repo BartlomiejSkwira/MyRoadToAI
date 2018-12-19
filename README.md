@@ -17,7 +17,7 @@ Online courses I have finished
 
 Name/Link | Description |  Other
 -----|-------------|------
-[Python A-Z™: Python For Data Science With Real Exercises! @ Udemy](https://www.udemy.com/python-coding/learn/v4/overview) | Teaches statistical analysis, data mining and visualization using Python, Numpy, Matplotlib, Pandas, Seaborn. | [Certificate](https://www.udemy.com/certificate/UC-CI7PT7QR)
+[Python A-Z™: Python For Data Science With Real Exercises @ Udemy](https://www.udemy.com/python-coding/learn/v4/overview) | Teaches statistical analysis, data mining and visualization using Python, Numpy, Matplotlib, Pandas, Seaborn. | [Certificate](https://www.udemy.com/certificate/UC-CI7PT7QR)
 [Pandas tutorial @ Kaggle](https://www.kaggle.com/learn/pandas) | Short hands-on challenges to perfect data manipulation skills | |
 [Official Python tutorial @ python.org](https://docs.python.org/3/tutorial/) | Introduces the reader informally to the basic concepts and features of the Python language and system. | |
 
