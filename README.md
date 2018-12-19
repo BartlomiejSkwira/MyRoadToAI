@@ -5,14 +5,22 @@ This repo tracks my progress in AI/Machine Learning/Data Science/Python field. I
 
 ## Table of contents:
 
-1. [Courses/MOOCs](https://github.com/BartlomiejSkwira/MyRoadToAI#1-courses)
-2. [Conferences and meetups](https://github.com/BartlomiejSkwira/MyRoadToAI#2-conferences-and-meetups)
+1. [Upcoming](https://github.com/BartlomiejSkwira/MyRoadToAI#4-upcoming)
+2. [Courses/MOOCs](https://github.com/BartlomiejSkwira/MyRoadToAI#1-courses)
 3. [Live workshops](https://github.com/BartlomiejSkwira/MyRoadToAI#3-live-workshops)
-4. [Upcoming](https://github.com/BartlomiejSkwira/MyRoadToAI#4-upcoming)
+4. [Conferences and meetups](https://github.com/BartlomiejSkwira/MyRoadToAI#2-conferences-and-meetups)
 5. [Contact](https://github.com/BartlomiejSkwira/MyRoadToAI#5-contact)
 
 
-### 1. Courses/MOOCs:
+### 1. Upcoming
+Things soon to happen or in progress.
+
+Name | Description | Other
+----------|----------|------------|
+| [Machine learning by Andrew Ng @ Coursera](https://www.coursera.org/learn/machine-learning) | This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas. | I implemented the exercises using Python, not Octave
+
+
+### 2. Courses/MOOCs:
 Online courses I have finished
 
 Name/Link | Description |  Other
@@ -21,18 +29,7 @@ Name/Link | Description |  Other
 [Pandas tutorial @ Kaggle](https://www.kaggle.com/learn/pandas) | Short hands-on challenges to perfect data manipulation skills | |
 [Official Python tutorial @ python.org](https://docs.python.org/3/tutorial/) | Introduces the reader informally to the basic concepts and features of the Python language and system. | |
 
-### 2. Conferences and meetups:
-Interesting talks, meetups, conferences I have attended.
-
-Name/Link |  Other
------|------
-| [PyData Warsaw 2018](https://pydata.org/warsaw2018/) ||
-| [DevForge](https://www.facebook.com/events/2155928724727596/) ||
-| [PyStok 34](https://www.facebook.com/events/161588124780347/) ||
-| [DataWorkshop Club Conf 2018](http://conf.dataworkshop.eu/) | [My blog post about this event](https://medium.com/@BartekSkwira/data-workshop-club-conf-how-all-it-conferences-should-be-made-1aaff7eb7402) |
-| [Pystok 33](https://www.facebook.com/pg/PyStok/events/?ref=page_internal) ||
-
-### 3. Live workshops:
+### 4. Live workshops:
 Live sessions with a mentor I have attended.
 
 Name/Link | Description |  Other
@@ -43,12 +40,17 @@ Name/Link | Description |  Other
 | [Serverless Approach to Working with Data](https://pydata.org/warsaw2018/schedule/presentation/61/) @ PyData Warsaw 2018 | Serverless ideas, in particular Function as a Service (FaaS), are gaining popularity. A lot has been said about serverless in context of web applications, but not so much when it comes to data engineering and analytics. During the presentation you will learn how to use the serverless approach for data-driven applications for data collection, storage and analytics. ||
 | [Introduction to image classification using Deep Learning](https://bpnt.bialystok.pl/PL/spolecznosc-bpn-t/startup-kalendarz/warsztaty-w-ramach-programistoku-w-bpn-t) @ Programistok | In this workshop we will explain the basic theory concerning neural networks (Multilayer Perceptron, Convolutionary Networks). We will build a neural network using the Keras library and apply it to solve simple problems in the field of image classification. | [My blog post about this workshop](https://blog.goodaudience.com/intro-to-image-classification-with-deep-learning-workshop-with-kamil-krzyk-programistok-78a97ce8cdda?gi=90a0defd296c)
 
-### 4. Upcoming
-Things soon to happen or in progress.
 
-Name | Description | Other
-----------|----------|------------|
-| [Machine learning by Andrew Ng @ Coursera](https://www.coursera.org/learn/machine-learning) | This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas. | I implemented the exercises using Python, not Octave
+### 4. Conferences and meetups:
+Interesting talks, meetups, conferences I have attended.
+
+Name/Link |  Other
+|-----|------|
+| [PyData Warsaw 2018](https://pydata.org/warsaw2018/) | |
+| [DevForge](https://www.facebook.com/events/2155928724727596/) | |
+| [PyStok 34](https://www.facebook.com/events/161588124780347/) | |
+| [DataWorkshop Club Conf 2018](http://conf.dataworkshop.eu/) | [My blog post about this event](https://medium.com/@BartekSkwira/data-workshop-club-conf-how-all-it-conferences-should-be-made-1aaff7eb7402) |
+| [Pystok 33](https://www.facebook.com/pg/PyStok/events/?ref=page_internal) | |
 
 
 ### 5. Contact
