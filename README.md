@@ -6,7 +6,7 @@ This repo tracks my progress in AI/Machine Learning/Data Science/Python field. I
 ## Table of contents:
 
 1. [Upcoming](https://github.com/BartlomiejSkwira/MyRoadToAI#1-upcoming)
-2. [Courses/MOOCs](https://github.com/BartlomiejSkwira/MyRoadToAI#2-courses)
+2. [Courses/MOOCs](https://github.com/BartlomiejSkwira/MyRoadToAI#2-coursesmoocs)
 3. [Live workshops](https://github.com/BartlomiejSkwira/MyRoadToAI#3-live-workshops)
 4. [Conferences and meetups](https://github.com/BartlomiejSkwira/MyRoadToAI#4-conferences-and-meetups)
 5. [Contact](https://github.com/BartlomiejSkwira/MyRoadToAI#5-contact)
