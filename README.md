@@ -46,6 +46,7 @@ Interesting talks, meetups, conferences I have attended.
 
 Name/Link | Other
 ----------|------
+| [PyStok 36](https://www.facebook.com/events/284180775778423/) ||
 | [PyData Warsaw 2018](https://pydata.org/warsaw2018/) ||
 | [DevForge](https://www.facebook.com/events/2155928724727596/) ||
 | [PyStok 34](https://www.facebook.com/events/161588124780347/) ||
