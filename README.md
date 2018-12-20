@@ -29,7 +29,7 @@ Name/Link | Description |  Other
 [Pandas tutorial @ Kaggle](https://www.kaggle.com/learn/pandas) | Short hands-on challenges to perfect data manipulation skills | |
 [Official Python tutorial @ python.org](https://docs.python.org/3/tutorial/) | Introduces the reader informally to the basic concepts and features of the Python language and system. | |
 
-### 4. Live workshops:
+### 3. Live workshops:
 Live sessions with a mentor I have attended.
 
 Name/Link | Description |  Other
