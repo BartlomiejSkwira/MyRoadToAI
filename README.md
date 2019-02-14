@@ -46,12 +46,10 @@ Interesting talks, meetups, conferences I have attended.
 
 Name/Link | Other
 ----------|------
-| [PyStok 36](https://www.facebook.com/events/284180775778423/) ||
 | [PyData Warsaw 2018](https://pydata.org/warsaw2018/) ||
 | [DevForge](https://www.facebook.com/events/2155928724727596/) ||
-| [PyStok 34](https://www.facebook.com/events/161588124780347/) ||
 | [DataWorkshop Club Conf 2018](http://conf.dataworkshop.eu/) | [My blog post about this event](https://medium.com/@BartekSkwira/data-workshop-club-conf-how-all-it-conferences-should-be-made-1aaff7eb7402) |
-| [Pystok 33](https://www.facebook.com/pg/PyStok/events/?ref=page_internal) ||
+| [Pystok](http://pystok.org/) | The ones I attended: [33](https://www.facebook.com/events/549061748861552/), [34](https://www.facebook.com/events/161588124780347/), [36](https://www.facebook.com/events/284180775778423/), [37 - PyTorch, BioPython](https://www.facebook.com/events/1814285062013212/)|
 
 
 ### 5. Contact
